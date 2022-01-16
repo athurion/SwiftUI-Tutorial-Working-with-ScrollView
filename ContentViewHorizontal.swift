@@ -16,6 +16,9 @@ struct ContentView: View {
             
             HStack {
                 
+                // Make sure you change the image name to the filename
+                // of the photos that you'll be using.
+                
                 ImageTextView(
                     image: "",
                     title: "Best programming language for beginners",
